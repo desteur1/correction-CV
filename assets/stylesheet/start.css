@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+@font-face {
+    font-family: "raleway";
+    src: url(/assets/font/Raleway-Italic-VariableFont_wght.ttf);
+}
+html{
+    width: 100%;
+}
+body {
+    font-family:"raleway", sans-serif;
+    width: 75%;
+}
